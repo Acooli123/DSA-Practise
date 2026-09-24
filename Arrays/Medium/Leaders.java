@@ -23,6 +23,6 @@ class Leaders {
     public static void main(String[] args){
         int arr[] = {10, 22, 12, 3, 0, 6};
         ArrayList<Integer> result = leaders(arr);
-        System.err.print("Leaders of the array is : "+result);
+        System.out.print("Leaders of the array is : "+result);
     }
 }

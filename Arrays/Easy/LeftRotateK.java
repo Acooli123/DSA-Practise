@@ -25,7 +25,7 @@ class LeftRotateK {
 
         System.err.println("After left rotation of k-th element : ");
         for(int i=0; i<n; i++){
-            System.err.print(arr[i]+" ");
+            System.out.print(arr[i]+" ");
         }
     }
     public static void main(String[] args) {

@@ -17,7 +17,7 @@ class IsomorphicString {
     }
     public static void main (String[] args){
         String s = "paper";
-        String t = "tille";
+        String t = "title";
 
         System.out.println("These strings are isomorphic : " +isomorphicString(s, t));
     }

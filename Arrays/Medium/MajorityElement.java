@@ -19,7 +19,7 @@ class MajorityElement {
         return num;
     }
     public static void main(String[] args) {
-        int arr[] = {7, 0, 0, 1, 7, 7, 2, 7, 7};
+        int arr[] = {0, 0, 0, 1, 7, 7, 2, 7, 7};
         int majorityElement = majorityElement(arr);
         System.err.println("Majority element in the array is : " +majorityElement);
     }

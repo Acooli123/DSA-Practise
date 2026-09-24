@@ -10,6 +10,6 @@ class LinearSearch {
     }
     public static void main(String[] args) {
         int arr[] = {5,10,20,40,30,60};
-        linearSearch(arr, 40);
+        linearSearch(arr, 10);
     }
 }

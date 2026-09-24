@@ -20,7 +20,7 @@ class CheckAnagrams {
 
     public static void main(String[] args) {
         String str1 = "ABC";
-        String str2 = "ACD";
+        String str2 = "ACB";
 
         System.out.println("Are these strings anagrams : " + checkAnagrams(str1, str2));
     }

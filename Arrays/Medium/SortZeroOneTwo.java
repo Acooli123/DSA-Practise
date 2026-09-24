@@ -13,7 +13,7 @@ class SortZeroOneTwo {
         }
 
         System.out.println("The sorted array which contains only 0, 1 and 2 is : ");
-        for(int i=0; i<nums.length; i++){
+        for(int i=0; i<n; i++){
             System.err.print(nums[i]+" ");
         }
     }
